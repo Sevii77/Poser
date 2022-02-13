@@ -1,0 +1,11 @@
+{
+	"Author": "Sevii",
+	"Name": "Poser",
+	"Punchline": "Allows you to pose",
+	"Description": "Allows you to pose",
+	"InternalName": "Poser",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 5,
+	"LoadPriority": 0,
+	"Tags": ["posing", "gpose"]
+}

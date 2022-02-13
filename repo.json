@@ -1,0 +1,21 @@
+[
+	{
+		"Author": "Sevii",
+		"Name": "Poser",
+		"Description": "View skeletons and modify bones",
+		"InternalName": "Poser",
+		"AssemblyVersion": "0.1.0",
+		"TestingAssemblyVersion": "0.1.0",
+		"RepoUrl": "https://github.com/Sevii77/Poser",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 5,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"DownloadLinkInstall": "https://github.com/Sevii77/poser/raw/master/release.zip",
+		"DownloadLinkTesting": "https://github.com/Sevii77/poser/raw/master/release.zip",
+		"DownloadLinkUpdate": "https://github.com/Sevii77/poser/raw/master/release.zip",
+		"Tags": ["posing", "gpose"]
+	}
+]
